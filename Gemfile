@@ -5,7 +5,7 @@ source 'https://rubygems.org'
 
 gem 'awestruct', '0.6.1'
 #gem 'awestruct', github: 'awestruct/awestruct', branch: 'master'
-gem 'asciidoctor', '1.5.7.1'
+gem 'asciidoctor', '2.0.10'
 #gem 'asciidoctor-diagram', '1.4.0'
 gem 'chunky_png', '1.3.5'
 gem 'coderay', '1.1.1'
