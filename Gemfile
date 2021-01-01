@@ -16,7 +16,7 @@ gem 'tilt', '2.0.2'
 gem 'zurb-foundation', '4.3.2'
 gem 'rb-inotify', '0.9.7', :platforms => [:ruby, :jruby]
 gem 'tzinfo', '1.2.2', :group => :test
-gem 'git', '1.2.9.1', :group => :test
+gem 'git', '1.8.1', :group => :test
 gem 'rake', '12.3.1', :group => :test
 gem 'rdoc', '4.2.2', :group => :test
 gem 'tomdoc', '0.2.5', :group => :test
